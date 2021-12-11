@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958355459274",
+    "project_id": "hiyaw-church",
+    "storage_bucket": "hiyaw-church.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958355459274:android:6fab2d41a72d7ffb9db833",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958355459274-8quahkshoqcu02u32l51ci7ouvgg3laj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm0kz9sBdhHRUaeaL-CnQ_N3HtLSmxnK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958355459274-8quahkshoqcu02u32l51ci7ouvgg3laj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
